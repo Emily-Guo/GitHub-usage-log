@@ -1,5 +1,5 @@
 # GitHub-usage-log
- Record the course in GitHub
+
 初次使用github请多多指教，记录了一些操作和想法，也不知道正不正确，待日后慢慢验证。基本是按照《GitHub Guide》使用文档来进行操作的。<br />
 
 #### 第一步：创建了一个GitHub usage log的存储库，来记录在创建第一个项目的操作日志。 <br />
